@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabPetti&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabPetti&layout=donut)](https://github.com/gabPetti/github-readme-stats)
 <!--
 **gabPetti/gabPetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
