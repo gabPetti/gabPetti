@@ -1,5 +1,5 @@
 # Hi there 👋
-  My name is Gabriel and I'm (almost) a fullstack developer and a student of Computer Science
+  My name is Gabriel and I'm (almost) a fullstack developer and a Computer Science student
   - 🔭 I’m currently searching for work
   - 🌱 I’m currently learning React
   - 🤔 I’m looking for help with ...
