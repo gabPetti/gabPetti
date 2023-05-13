@@ -1,9 +1,15 @@
 # Hi there 👋
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabPetti&show_icons=true&theme=transparent)
-
+<div>
+  My name is Gabriel and I'm (almost) a fullstack developer and a student of Computer Science
+  - 🔭 I’m currently searching for work
+  - 🌱 I’m currently learning React
+  - 🤔 I’m looking for help with ...
+  - 💬 Ask me about javascript
+  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabPetti&show_icons=true&theme=transparent)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabPetti&layout=donut)](https://github.com/gabPetti/github-readme-stats)
 
-## Technologies I'm using
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
