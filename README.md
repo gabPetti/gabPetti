@@ -4,8 +4,8 @@
 
 <p align="left">My name is Gabriel and I'm a fullstack developer and a Computer Science student from Brazil</p>
 
-- 🔭 I’m currently an intern software engineer
-- 🌱 My current stack is Nest, React and Postgres
+- 🔭 I’m currently a Software Engineer intern
+- 🌱 My current stack is Nest, typescript, React and Postgres
 - 💬 Ask me about games, but dont ask if I'm good at it 🫠
 
 You can reach me at [LinkedIn](https://www.linkedin.com/in/gabriel-petti-110a84260/)
