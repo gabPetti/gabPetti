@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Gabriel and I'm a fullstack developer and a Computer Science student from Brazil</p>
+
 - 🔭 I’m currently an intern software engineer
 - 🌱 My current stack is Nest, React and Postgres
 - 💬 Ask me about games, but dont ask if I'm good at it 🫠
